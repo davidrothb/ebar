@@ -13,3 +13,6 @@ Kod pro externi mikrokontroler typu esp82xx, pres I2C inject na konektoru pro di
 
 ### Slozka "docs"
 Fotky a dokumentace
+
+### Robot
+Byla zde snaha spojit ebar s robotickou rukou, propojeni pres Blynk, proto obcas slovo "robot"
